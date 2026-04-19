@@ -24,7 +24,6 @@ O portfólio está dividido em duas categorias principais para facilitar a anál
 
 Este portfólio não é apenas um site estático. Ele foi desenvolvido com princípios de segurança em mente:
 - **Sanitização de Inputs:** Práticas aplicadas nos projetos backend para evitar SQLi e XSS.
-- **Ofuscação de Dados:** Uso de serviços de terceiros (como Formspree) para proteção de emails e credenciais no frontend.
 - **Ambiente:** Desenvolvido e testado em ambiente **Linux (Xubuntu)**.
 
 ## 📬 Contacto
@@ -33,7 +32,7 @@ Se quiseres colaborar em algum projeto de segurança ou desenvolvimento, podes e
 
 * **Email:** [alexandresjandre301@gmail.com](mailto:alexandresjandre301@gmail.com)
 * **LinkedIn:** https://www.linkedin.com/in/alexandre-andr%C3%A9-058044294/
-* **Portfólio Online:** [Link do teu site aqui]
+* **Portfólio Online:** https://alexandre-andre-301.github.io/Meu-Portifolio/index.html
 
 ---
 <p align="center">
